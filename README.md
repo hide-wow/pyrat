@@ -1,2 +1,3 @@
 # pyrat
-A very powerful tool to make botnets and rat, written in python
+
+* This projet is in developement !
