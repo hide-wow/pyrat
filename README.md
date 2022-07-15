@@ -1,3 +1,3 @@
 # pyrat
 
-* This projet is in developement !
+* This projet is paused.
